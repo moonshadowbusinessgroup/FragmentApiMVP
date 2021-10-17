@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentApi</string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="gender">Gender :</string>
+    <string name="status">Status :</string>
+    <string name="id">ID :</string>
+</resources>
